@@ -112,7 +112,7 @@ span {
     display: flex;
     justify-content: space-around;
     padding: 50px 0px;
-    background-image: url(/images/shape-6.png);
+    background-image: url(/images/shape-1.png);
     background-repeat: no-repeat;
     background-size: 250px;
     background-position: left;
@@ -154,7 +154,7 @@ span {
     display: flex;
     justify-content: space-around;
     padding-bottom: 50px;
-    background-image: url(/images/shape-9.png);
+    background-image: url(/images/shape-2.png);
     background-repeat: no-repeat;
     background-size: 250px;
     background-position: right;
