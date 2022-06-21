@@ -181,7 +181,7 @@ span {
 
 /* fourth section design ends here */
 
-/* fifth section starts here */
+/* fifth section design starts here */
 .contact-form h3 {
     text-align: center;
     background-color: #FFAD5A;
@@ -255,4 +255,24 @@ textarea {
     height: 450px;
 }
 
-/* fifth section ends here */
+/* fifth section design ends here */
+
+/* footer section design starts here */
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 35px;
+    font-family: 'Bitter', serif;
+    font-family: 'Yeseva One', cursive;
+}
+
+.footer-paragraph {
+    text-align: center;
+}
+
+.year-design {
+    color: #FF5959;
+}
+
+/* footer section design ends here */
