@@ -3,6 +3,7 @@ body {
     padding: 0;
 }
 
+/* first section design starts here */
 p {
     text-align: justify;
 }
@@ -45,6 +46,9 @@ span {
     padding-left: 100px;
 }
 
+/* first section design ends here */
+
+/* second section design starts here */
 .second-heading {
     text-align: center;
     margin-bottom: 50px;
@@ -53,7 +57,8 @@ span {
 }
 
 .second-section {
-    padding: 50px 100px;
+
+    margin: 100px 100px;
 }
 
 .card-section {
@@ -87,3 +92,48 @@ span {
 .n-image img {
     width: 150px;
 }
+
+/* second section design ends here */
+
+/* third section design starts here */
+.left-hand-side img {
+    width: 330px;
+    margin-left: 110px;
+
+}
+
+.right-hand-side {
+    width: 360px;
+    padding-top: 15px;
+    margin-right: 430px;
+}
+
+.third-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0px;
+    background-image: url(/images/shape-6.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position: left;
+}
+
+.right-hand-side a {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.second-btn {
+    margin: 25px 0px;
+}
+
+.third-heading {
+    font-family: 'Bitter', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* third section design ends here */
