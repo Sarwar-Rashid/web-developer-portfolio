@@ -137,3 +137,46 @@ span {
 }
 
 /* third section design ends here */
+
+/* fourth section design starts here */
+.fourth-left-hand-side {
+    width: 330px;
+    margin-top: 15px;
+    margin-left: 435px;
+}
+
+.fourth-right-hand-side img {
+    width: 330px;
+    padding-right: 110px;
+}
+
+.fourth-section {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+    background-image: url(/images/shape-9.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position: right;
+    margin: 50px 0;
+}
+
+.fourth-left-hand-side a {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.third-btn {
+    margin: 25px 0px;
+}
+
+.fourth-heading {
+    font-family: 'Bitter', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* fourth section design ends here */
